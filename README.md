@@ -22,12 +22,12 @@ In conclusion, Stream Protocol Ltd/Stream Innovations is dedicated to providing 
 
 # Cross-Chain Payments: Facilitating Seamless Transactions Across Blockchain Networks
 
-## Problem to Solve:
+### Problem to Solve:
 Integrating banking and financial services into e-commerce platforms can be challenging and time-consuming. Businesses need a seamless solution to handle payment processing, invoicing, and other banking services within their online stores.
 
 User experience for cross-chain payments remains a significant challenge, with existing solutions often being complex and convoluted. Even simple token swaps through centralized exchanges can be unnecessarily complicated, indicating the need for better alternatives.
 
-## Solution:
+### Solution:
 
 #### Stream Payments - Banking as a Service (BaaS): Empowering Seamless Web3 Transactions
 
