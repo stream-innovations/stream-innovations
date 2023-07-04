@@ -23,11 +23,11 @@ In conclusion, Stream Protocol Ltd/Stream Innovations is dedicated to providing 
 
 # Cross-chain Payments: Facilitating Seamless Transactions Across Blockchain Networks
 
-## Problem: 
+#### Problem: 
 
 User experience for cross-chain payments remains a significant challenge, with existing solutions often being complex and convoluted. Even simple token swaps through centralized exchanges can be unnecessarily complicated, indicating the need for better alternatives.
 
-## Solution:
+#### Solution:
 
 To address the issues surrounding cross-chain payments, we propose the development of StreamPay, a seamless payment application designed to facilitate transactions across different blockchain networks. This solution aims to enhance accessibility for users, particularly those operating on chains other than Solana. The key features of StreamPay include:
 
