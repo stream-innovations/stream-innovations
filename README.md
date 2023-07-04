@@ -1,4 +1,4 @@
-StreamPay™ and StreamInnovations are both products of Stream Protocol Ltd, a technology company specializing in innovative solutions for supply chain management and payment processing. Stream Protocol Ltd. is the proud owner of StreamPay™ and StreamInnovations.
+StreamPay™ and Stream Innovations are both products of Stream Protocol Ltd, a technology company specializing in innovative solutions for supply chain management and payment processing. Stream Protocol Ltd. is the proud owner of StreamPay™ and StreamInnovations.
 
 StreamPay, developed by Stream Innovations, is a web3 and blockchain technology-based platform application that offers significant benefits for businesses. Leveraging blockchain technology, companies can process transactions quickly and securely, leading to cost reduction and improved inventory management. StreamPay's Supply Chain technology provides transparency and traceability to customers, increasing consumer confidence and minimizing environmental impact.
 
