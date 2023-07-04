@@ -1,3 +1,5 @@
+# Introduction
+
 Stream Protocol Ltd/Stream Innovations is a leading technology company that is revolutionizing supply chain management and payment processing. With a strong focus on innovation, Stream Protocol has developed two notable products: StreamPay™ and StreamPOS.
 
 StreamPay™ is an advanced web3 and blockchain-based platform application that brings numerous benefits to businesses. By leveraging the power of blockchain technology, StreamPay™ enables merchants and companies to process transactions quickly and securely, leading to cost reduction and improved inventory management. One of the key features of StreamPay™ is its web3 payment and Supply Chain technology, which provides transparency and traceability to customers. This transparency not only boosts consumer confidence but also helps minimize the environmental impact of businesses.
