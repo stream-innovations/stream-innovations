@@ -29,7 +29,7 @@ User experience for cross-chain payments remains a significant challenge, with e
 
 ## Solution:
 
-Stream Payments - Banking as a Service (BaaS): Empowering Seamless Web3 Transactions
+#### Stream Payments - Banking as a Service (BaaS): Empowering Seamless Web3 Transactions
 
 Stream Payments offers Banking as a Service (BaaS), empowering businesses to integrate banking and financial services into their e-commerce platforms. By leveraging the API interfaces and core banking solutions provided by Stream Payments, businesses can enjoy the following benefits:
 
