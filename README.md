@@ -12,9 +12,10 @@ We would like to inform you that "**Stream**Innovations" is a development purpos
 - **Collaborative Environment**: We encourage all members of the **Stream** Protocol community to actively participate in **Stream**Innovations. Share your ideas, collaborate with like-minded individuals, and contribute to the growth of this exciting initiative.
 - **Safe and Secure**: While StreamInnovations encourages experimentation, we prioritize safety and security. Participants are encouraged to follow best practices and ensure that any experiments do not compromise the integrity of the **Stream** Protocol ecosystem.
 - **Open to Feedback**: We welcome feedback from the community regarding **Stream**Innovations. Your input is valuable, and it will help shape the future direction of this initiative.
-Disclaimer:
+  
+#### Disclaimer:
 
-* Please note that while **Stream**Innovations fosters an environment for experimentation, it is important to understand that any projects or developments within this initiative are not production-ready or officially endorsed by Stream Protocol unless explicitly stated. Participants should exercise caution and conduct due diligence when engaging with any concepts or applications developed through StreamInnovations.
+Please note that while **Stream**Innovations fosters an environment for experimentation, it is important to understand that any projects or developments within this initiative are not production-ready or officially endorsed by Stream Protocol unless explicitly stated. Participants should exercise caution and conduct due diligence when engaging with any concepts or applications developed through StreamInnovations.
 
 #### Get Involved:
 
