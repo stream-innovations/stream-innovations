@@ -22,7 +22,8 @@ A key application of blockchain technology is the automation of contracts throug
 
 In conclusion, Stream Protocol Co., Ltd / Stream**Pay**™ is dedicated to providing innovative solutions for supply chain management and payment processing. With products like Stream**Pay**™ and Stream**POS**™, businesses can leverage web3 and blockchain technology to streamline operations, ensure transparency, and drive growth. By embracing the potential of Solana blockchain technology, Stream**Pay**™ offers secure and efficient transaction processing, enhances inventory management, and enables businesses to meet evolving consumer demands while building trust and accountability.
 
-# Cross-Chain Payments: Facilitating Seamless Transactions Across Blockchain Networks
+
+## Cross-Chain Payments: Facilitating Seamless Transactions Across Blockchain Networks
 
 ### Problem to Solve:
 
