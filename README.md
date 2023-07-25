@@ -1,32 +1,28 @@
 ## Dear Community Members,
 
-We would like to inform you that "**Stream**Innovations" is a development purposes initiative within the Stream Protocol ecosystem. This project is focused on fostering innovation and exploration of new ideas related to blockchain technology and its applications.
+We would like to inform you that "**Stream**Innovations" is a development purposes initiative within the **Stream** Protocol / Stream**Pay** ecosystems. This project is focused on fostering innovation and exploration of new ideas related to blockchain technology and its applications.
 
-### What is StreamInnovations?
+### What is **Stream**Innovations?
 
 **Stream**Innovations serves as a sandbox environment for developers, researchers, and enthusiasts to experiment with cutting-edge technologies, smart contract development, decentralized applications (dApps), and other innovative solutions. It is an experimental platform where we encourage creativity and collaboration to push the boundaries of what is possible in the world of decentralized systems.
 
 #### Key Points:
 
-- Exploratory Nature: **Stream**Innovations is designed to be an exploratory initiative, allowing participants to test and develop new concepts without the constraints of a production environment.
-- Collaborative Environment: We encourage all members of the Stream Protocol community to actively participate in **Stream**Innovations. Share your ideas, collaborate with like-minded individuals, and contribute to the growth of this exciting initiative.
-- Safe and Secure: While StreamInnovations encourages experimentation, we prioritize safety and security. Participants are encouraged to follow best practices and ensure that any experiments do not compromise the integrity of the Stream Protocol ecosystem.
-- Open to Feedback: We welcome feedback from the community regarding **Stream**Innovations. Your input is valuable, and it will help shape the future direction of this initiative.
+- **Exploratory Nature**: **Stream**Innovations is designed to be an exploratory initiative, allowing participants to test and develop new concepts without the constraints of a production environment.
+- **Collaborative Environment**: We encourage all members of the **Stream** Protocol community to actively participate in **Stream**Innovations. Share your ideas, collaborate with like-minded individuals, and contribute to the growth of this exciting initiative.
+- **Safe and Secure**: While StreamInnovations encourages experimentation, we prioritize safety and security. Participants are encouraged to follow best practices and ensure that any experiments do not compromise the integrity of the **Stream** Protocol ecosystem.
+- **Open to Feedback**: We welcome feedback from the community regarding **Stream**Innovations. Your input is valuable, and it will help shape the future direction of this initiative.
 Disclaimer:
 
 * Please note that while **Stream**Innovations fosters an environment for experimentation, it is important to understand that any projects or developments within this initiative are not production-ready or officially endorsed by Stream Protocol unless explicitly stated. Participants should exercise caution and conduct due diligence when engaging with any concepts or applications developed through StreamInnovations.
 
 #### Get Involved:
 
-If you are a developer, researcher, or enthusiast eager to explore the frontiers of blockchain technology and decentralized systems, we invite you to participate in StreamInnovations. Share your ideas, collaborate with the community, and together, let's drive innovation within the Stream Protocol ecosystem.
+If you are a developer, researcher, or enthusiast eager to explore the frontiers of blockchain technology and decentralized systems, we invite you to participate in Stream**Innovations**. Share your ideas, collaborate with the community, and together, let's drive innovation within the **Stream** Protocol / Stream**Pay** ecosystems.
 
 We look forward to witnessing the innovative ideas that will emerge from **Stream**Innovations and the positive impact they can bring to the blockchain industry.
 
-Thank you for being a part of the Stream Protocol community!
-
-Sincerely,
-
-The Stream Protocol Team
+Thank you for being a part of the **Stream** Protocol community!
 
 
 ## Introduction
